@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Broadcast to Telegram\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-30 18:49+0000\n"
+"PO-Revision-Date: 2017-02-04 11:29+0000\n"
+"Last-Translator: admin <enzo.costantini@yahoo.it>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: broadcast-telegram.php:94 broadcast-telegram.php:94 admin-page.php:14
+#: admin-page.php:14
+msgid "Notify to Telegram"
+msgstr "Notifica a Telegram"
+
+#. Name of the plugin
+#: broadcast-telegram.php:160 admin-page.php:17
+msgid "Broadcast to Telegram"
+msgstr "Notifica a Telegram"
+
+#: admin-page.php:111
+msgid "Autocheck checkbox to send new posts"
+msgstr "Caselle di invio preselezionate"
+
+#: admin-page.php:117
+msgid "Disable link web preview"
+msgstr "Disabilita anteprima web dei link"
+
+#. Description of the plugin
+msgid ""
+"Post notification system on one or more channels via Telegram Bot. The "
+"plugin allows to select the document type and Telegram channels."
+msgstr ""
+"Sistema di notifica dei post su uno o pi&ugrave; canali Telegram tramite Bot."
+" Il plugin permette di impostare il tipo di documento in cui attivare la "
+"notifica e i canali Telegram sui quali notificare.\n"
+
+#. Author of the plugin
+msgid "Enzo Costantini (SoftCos)"
+msgstr "Enzo Costantini (SoftCos)"
+
+#. Author URI of the plugin
+msgid "www.softcos.eu"
+msgstr "www.softcos.eu"
+
+#: broadcast-telegram.php:17
+msgid "TITLE"
+msgstr "TITOLO"
+
+#: broadcast-telegram.php:18
+msgid "FULLURL"
+msgstr "URL_COMPLETO"
+
+#: broadcast-telegram.php:19
+msgid "SHORTURL"
+msgstr "URL_BREVE"
+
+#: broadcast-telegram.php:20
+msgid "EXCERPT"
+msgstr "ESTRATTO"
+
+#: broadcast-telegram.php:21
+msgid "TAGS"
+msgstr "TAG"
+
+#: broadcast-telegram.php:22
+msgid "CATEGORIES"
+msgstr "CATEGORIE"
+
+#: broadcast-telegram.php:98
+msgid "Post already notified"
+msgstr "Documento gi&agrave; notificato"
+
+#: broadcast-telegram.php:106
+msgid "Available channels to send:"
+msgstr "Canali disponibili per l'invio"
+
+#: admin-page.php:20
+msgid "Post notification system to one or more channels via Telegram Bot"
+msgstr ""
+"Sistema di notifica dei post su uno o più canali attraverso un Bot di "
+"Telegram"
+
+#: admin-page.php:22
+msgid "by"
+msgstr "di"
+
+#: admin-page.php:52
+msgid "Settings properly saved"
+msgstr "Impostazioni salvate correttamente"
+
+#: admin-page.php:56
+msgid "You have to select at least one document type"
+msgstr "Bisogna selezionare almeno un tipo di documento"
+
+#: admin-page.php:69
+msgid "Post type"
+msgstr "Tipo di documento"
+
+#: admin-page.php:99
+msgid "Telegram Bot token"
+msgstr "Identificativo del Bot Telegram"
+
+#: admin-page.php:105
+msgid "Telegram channels list"
+msgstr "Elenco dei canali Telegram"
+
+#: admin-page.php:105
+msgid "format"
+msgstr "formato"
+
+#: admin-page.php:105
+msgid "@idchannel1+@idchannel2+..."
+msgstr "@idcanale1+@idcanale2+..."
+
+#: admin-page.php:123
+msgid "Message template"
+msgstr "Modello dei messaggi"
+
+#: admin-page.php:124
+msgid "placeholders"
+msgstr "segnaposto"
+
+#: admin-page.php:131
+msgid "supported markdowns"
+msgstr "tag supportati"
+
+#: admin-page.php:131
+msgid "bold"
+msgstr "grassetto"
+
+#: admin-page.php:131
+msgid "italic"
+msgstr "corsivo"
+
+#: admin-page.php:138
+msgid "Delete options on uninstall"
+msgstr "Elimina le opzioni quando disinstalli"
+
+#: admin-page.php:145
+msgid "Save changes"
+msgstr "Salva modifiche"
+
+#: admin-page.php:153
+msgid "Broadcast to Telegram (settings)"
+msgstr "Notifica a Telegram (impostazioni)"
